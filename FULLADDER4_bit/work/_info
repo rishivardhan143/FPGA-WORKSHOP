@@ -1,0 +1,77 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rishi/OneDrive/Documents/fpga/models/projects/FULLADDER4_bit
+vfull_adder
+Z1 !s110 1793611754
+!i10b 1
+!s100 OQR8g^k]J2eMzHG^z^[Mi2
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IGaBz9INW2^O1A^:1:?=[40
+R0
+Z3 w1793443024
+Z4 8FULLADDER4.v
+Z5 FFULLADDER4.v
+!i122 1
+L0 5 12
+Z6 VDg1SIo80bB@j0V0VzS_@n1
+Z7 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z8 !s108 1793611753.000000
+!s107 FULLADDER4.v|FULLADDER4_tb.v|
+Z9 !s90 -reportprogress|300|FULLADDER4_tb.v|FULLADDER4.v|
+!i113 1
+Z10 tCvgOpt 0
+vfull_adder4
+R1
+!i10b 1
+!s100 EXg0?4OmC;M@NTk_9h@KT3
+R2
+II_@jlIkcU>f80=og:lja61
+R0
+R3
+R4
+R5
+!i122 1
+L0 20 32
+R6
+R7
+r1
+!s85 0
+31
+R8
+Z11 !s107 FULLADDER4.v|FULLADDER4_tb.v|
+R9
+!i113 1
+R10
+vtb_full_adder4
+R1
+!i10b 1
+!s100 9<aU<j`c6zH12JQSRagJ;0
+R2
+I;B=YYHYUEa`^jb>;FZg7C2
+R0
+w1793443191
+8FULLADDER4_tb.v
+FFULLADDER4_tb.v
+!i122 1
+L0 4 47
+R6
+R7
+r1
+!s85 0
+31
+R8
+R11
+R9
+!i113 1
+R10

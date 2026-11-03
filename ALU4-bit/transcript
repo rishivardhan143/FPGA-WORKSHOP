@@ -1,0 +1,44 @@
+# vsim work.alu4_tb 
+# Start time: 12:42:39 on Oct 31,2026
+# Loading work.alu4_tb
+# Loading work.alu4
+add wave.-r*
+# ** Error: bad option "wave.-r*": should be one of...
+#   add atv ?options? ?arg arg ...?
+#   add button text action ?disable? ?options? ?help?
+#   add dataflow ?options? ?arg arg ...?
+#   add lists ?options? ?arg arg ...?
+#   add log ?options? ?arg arg ...?
+#   add memory options ?arg arg ...?
+#   add message ?options? ?arg arg ...?
+#   add monitor ?options? ?arg arg ...?
+#   add schematic ?options? ?arg arg ...?
+#   add testbrowser ?options? ?arg arg ...?
+#   add virtual ?options? ?arg arg ...?
+#   add watch ?options? ?arg arg ...?
+#   add wave ?options? ?arg arg ...?
+add wave
+# wrong number of args for "add wave".
+# Usage: add wave [-allowconstants] [-clampanalog {0|1}] [-color <standard_color_name>] [-depth <level>] [-divider <divider_name>...] [-expand <signal_name>] [-filter <f> | -nofilter <f>] [-format <type> | -<format>] [-group <group_name> [<sig_name1>...]] [-height <pixels>] [[-in] [-out] [-inout] | [-ports]] [-internal] [-label <name>] [-max <real_num>] [-min <real_num>] [-noupdate] [-numdynitem <int>] [-position <location>] [-queueends] [-radix <type> | -<radix_type>] [-radixenumnumeric | -radixenumsymbolic] [-recursive] [-startdynitem <int>] [-time] [<object_name>...] [{<object_name> {sig1 sig2 ...}}] 
+add wave -r *
+run -all
+# ==============================================
+#         4-BIT ALU SIMULATION
+# ==============================================
+# Time   A     B     OP      Result   Carry/Borrow Zero
+# ------------------------------------------------------
+#    0   0101   0011    000      1000          0        0
+# 20000   1111   0001    000      0000          1        1
+# 40000   0101   0011    001      0010          0        0
+# 60000   0011   0101    001      1110          1        0
+# 80000   0101   0011    010      0001          0        0
+# 100000   0101   0011    011      0111          0        0
+# 120000   0101   0011    100      0110          0        0
+# 140000   0101   0101    001      0000          0        1
+# ==============================================
+#         SIMULATION COMPLETED
+# ==============================================
+wave zoom full
+# {0 ps} {168 ns}
+# End time: 12:53:54 on Oct 31,2026, Elapsed time: 0:11:15
+# Errors: 0, Warnings: 0

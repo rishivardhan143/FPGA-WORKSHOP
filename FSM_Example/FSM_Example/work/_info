@@ -1,0 +1,59 @@
+m255
+K4
+z2
+!s11f vlog 2020.3 2020.07, Jul 22 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dD:/FPGA/Modelsim/Projects/washing_controller
+vwashing_machine
+Z0 DXx6 sv_std 3 std 0 22 VYECXdT12H8WgbUP_5Y6:3
+Z1 !s110 1793617716
+!i10b 1
+!s100 9YRhTYPm1Yd]63SEU7c7W1
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IcH@YMP9=L2J@1m6Ie?U_Y1
+S1
+Z3 dC:/Users/rishi/OneDrive/Documents/fpga/models/projects/FSM_Example/FSM_Example
+Z4 w1793617609
+8washing.sv
+Fwashing.sv
+!i122 1
+L0 1 123
+Z5 VDg1SIo80bB@j0V0VzS_@n1
+Z6 OV;L;2020.3;71
+r1
+!s85 0
+31
+Z7 !s108 1793617716.000000
+!s107 washing.sv|washing_tb.sv|
+Z8 !s90 -reportprogress|300|washing_tb.sv|washing.sv|
+!i113 1
+Z9 tCvgOpt 0
+vwashing_machine_tb
+R0
+R1
+!i10b 1
+!s100 @gebge@EEA^7P9VZzMAO`3
+R2
+IL3HB:o^E]ONif2VAVBN7O2
+S1
+R3
+R4
+8washing_tb.sv
+Fwashing_tb.sv
+!i122 1
+L0 1 53
+R5
+R6
+r1
+!s85 0
+31
+R7
+Z10 !s107 washing.sv|washing_tb.sv|
+R8
+!i113 1
+R9

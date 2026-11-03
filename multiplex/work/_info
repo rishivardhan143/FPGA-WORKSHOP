@@ -1,0 +1,32 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/rishi/OneDrive/Documents/fpga/models/projects/multiplex
+vmux_4to1
+!s110 1793617108
+!i10b 1
+!s100 OTnY5KB?J2E:SL=ZIDeOJ0
+!s11b Dg1SIo80bB@j0V0VzS_@n1
+Iea^6_o[d85bk<?D_]RHOB1
+R0
+w1793616617
+8mux_4to1.v
+Fmux_4to1.v
+!i122 0
+L0 3 17
+VDg1SIo80bB@j0V0VzS_@n1
+OV;L;2020.3;71
+r1
+!s85 0
+31
+!s108 1793617108.000000
+!s107 tb.v|mux_4to1.v|
+!s90 -reportprogress|300|mux_4to1.v|tb.v|
+!i113 1
+tCvgOpt 0
